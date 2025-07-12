@@ -8,6 +8,7 @@ html {
 
 body {
   font-family: "Roboto", sans-serif;
+  color: #000;
   margin: 0;
   padding: 0;
   background-color: #ebebeb;
@@ -168,3 +169,29 @@ h1, h2, h3, p {
   font-weight: 500;
 }
 
+.footer {
+}
+.footer__list {
+  max-width: 180px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 20px;
+}
+.footer__item {
+}
+.footer__link {
+  color: #a3a3a3;
+  transition: 0.3s;
+}
+.footer__link:hover {
+  color: #000;
+}
+.footer__img {
+  width: 45px;
+  height: 45px;
+}
+.footer .desc {
+  text-align: center;
+}
