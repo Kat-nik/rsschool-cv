@@ -1,6 +1,6 @@
 <h1 style="border-bottom: none; margin-bottom: 10px;">Ekaterina Pavlova</h1>
 
-<img src="./assets/2025-07-11_08-39-00.png" alt="avatar" title="My photo" style="max-width: 150px; height: auto;" />
+<img src="./assets/2025-07-11_08-39-00.png" alt="avatar" title="My photo" style="width: 150px; height: auto;">
 
 ***
 ## CONTACT
