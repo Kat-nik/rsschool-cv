@@ -6,7 +6,7 @@
 ## CONTACT
 * Saint-Petersburg, Russia
 * 81234567890
-* pavlova23091987@gmail.ru
+* pavlova23091987@gmail.com
 
 ## ABOUT ME
 I am currently in the process of learning to be a front-end developer. I can already do simple projects and layout.
